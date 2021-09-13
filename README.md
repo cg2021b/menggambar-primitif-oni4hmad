@@ -1,2 +1,3 @@
 # menggambar-primitif-oni4hmad
-menggambar-primitif-oni4hmad created by GitHub Classroom
+Nama: Ahmad Aunul Ma`bud
+NRP: 05111940000164
